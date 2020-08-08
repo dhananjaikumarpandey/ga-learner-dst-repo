@@ -51,6 +51,7 @@ print (full_name)
 # name in upper case
 certificate_name = full_name.upper()
 
+# print the name on the certificate
 print (certificate_name)
 
 
